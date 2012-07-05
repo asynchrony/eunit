@@ -2,7 +2,7 @@
 
 {application, eunit,
  [{description, "EUnit"},
-  {vsn, "%VSN%"},
+  {vsn, git},
   {modules, [eunit,
 	     eunit_autoexport,
 	     eunit_data,
